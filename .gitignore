@@ -1,0 +1,6 @@
+target
+result
+scores.csv
+players.csv
+result-*
+.direnv
